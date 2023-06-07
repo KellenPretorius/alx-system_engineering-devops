@@ -1,3 +1,4 @@
 0-current_working_directory - Displays the absolute path of the current directory
 1-Listit - Lists the files in current directory
-2-bring_me_home - Navigates back to home directory
+2-Bring_me_home - navigates back to home directory
+3-listfiles - lists files in long format
