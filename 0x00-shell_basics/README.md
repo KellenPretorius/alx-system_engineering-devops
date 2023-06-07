@@ -17,3 +17,4 @@
 101-clean_emacs - Deletes all files in the current directory ending with ~
 102-tree - Creates a Directory Structure :welcome/to/school
 103-commas - Lists all files seperated by a , and all directories seperated by a / under current directory
+school.mgc - Can be used in conjuncion with 'file' command to find files containing the string 'SCHOOL'
