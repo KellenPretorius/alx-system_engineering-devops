@@ -15,3 +15,4 @@
 14-copy_html - Copies only .html files from current directory to parent directory while ignoring already ixisting files in the parent
 100-lets_move - Finds files starting with upper case letters and then moves them to /tmp/u directory
 101-clean_emacs - Deletes all files in the current directory ending with ~
+102-tree - Creates a Directory Structure :welcome/to/school
