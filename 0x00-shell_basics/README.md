@@ -2,3 +2,4 @@
 1-Listit - Lists the files in current directory
 2-Bring_me_home - navigates back to home directory
 3-listfiles - lists files in long format
+4-listmorefiles - Lists Hidden files as well
