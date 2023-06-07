@@ -5,3 +5,4 @@
 4-listmorefiles - Lists Hidden files as well
 5-listfilesdigitonly - List files with ID's displayed numerically
 6-firstdirectory - Creates directory 'my_first_directory' in /tmp
+7-movethatfile - moves the file 'betty' in /tmp to 'my_first_directory'
