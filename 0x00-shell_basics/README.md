@@ -9,3 +9,4 @@
 8-firstdelete - Deletes /tmp/my_first_directory/betty
 9-firstdirdeletion - Deletes the my_first_directory Directory in /tmp
 10-back - Navigates to the previous directory
+11-lists - Lists the contents of the current, parent and /boot directories
