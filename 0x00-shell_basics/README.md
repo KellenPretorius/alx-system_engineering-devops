@@ -3,3 +3,4 @@
 2-Bring_me_home - navigates back to home directory
 3-listfiles - lists files in long format
 4-listmorefiles - Lists Hidden files as well
+5-listfilesdigitonly - List files with ID's displayed numerically
