@@ -9,3 +9,4 @@
 8-James_Bond - Gives the owner and group no perms and others all perms(I see what you did there)
 9-John_Doe - Changes the mode of the file by giving owner all perms, group read and execute perms and others write and execute perms
 10-mirror_permissions - Mirrors permissions of reference file on target file
+11-directories_permissions - Gives execute perms for all subdirectories
