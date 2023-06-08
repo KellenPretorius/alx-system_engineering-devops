@@ -6,3 +6,4 @@
 5-execute - Grants the user execution rights to the file hello (off with it's head)
 6-multiple_permissions - Grants user and owner execute permissions and others read permissions
 7-everybody - Adds execute perms for all
+8-James_Bond - Gives the owner and group no perms and others all perms(I see what you did there)
