@@ -7,3 +7,4 @@
 6-multiple_permissions - Grants user and owner execute permissions and others read permissions
 7-everybody - Adds execute perms for all
 8-James_Bond - Gives the owner and group no perms and others all perms(I see what you did there)
+9-John_Doe - Changes the mode of the file by giving owner all perms, group read and execute perms and others write and execute perms
