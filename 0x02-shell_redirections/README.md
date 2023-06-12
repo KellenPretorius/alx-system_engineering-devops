@@ -16,4 +16,5 @@
 15-countthatword - Counts the number of times the word bin appears in passwd file.
 16-whatsnext - Finds the word 'root' and prints it as well as the next 3 lines after every match.
 17-hidethisword - Hides the word bin in passwd file
+18-letteonly - Displays all lines of a file starting with a letter using the [[:alpha:]] parameter and grep.
 
