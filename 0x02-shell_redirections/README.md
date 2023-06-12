@@ -5,4 +5,5 @@
 4-lastlines - Displays the last 10 lines of etc/passwd using the tail -n command
 5-firstlines - Opposite of above using head command
 6-third_line = Displays the third line of the file iacta
+7-file - Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and enters the text 'Best School'
 
