@@ -12,4 +12,4 @@
 11-directories - Counts the number of directorries under the current.
 12-newest_files - Displays the 10 newest files in the directory
 13-unique - Sorts input words in alphabetical order and only prints unique words.
-
+14-findthatword - Fins the word 'root' in /etc/passwd using grep
