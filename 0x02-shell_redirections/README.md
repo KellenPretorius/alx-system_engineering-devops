@@ -14,4 +14,5 @@
 13-unique - Sorts input words in alphabetical order and only prints unique words.
 14-findthatword - Fins the word 'root' in /etc/passwd using grep
 15-countthatword - Counts the number of times the word bin appears in passwd file.
+16-whatsnext - Finds the word 'root' and prints it as well as the next 3 lines after every match.
 
