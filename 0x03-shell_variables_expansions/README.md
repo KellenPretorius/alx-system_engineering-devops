@@ -11,4 +11,4 @@
 10-love_exponent_breath - Displays the result of variable BREATH to the power LOVE
 11-binary_to_decimal - converts a number from a base 2, stored in variable BINARY, to base 10
 12-combinations - Prints all possible combinations of 2 letters barring oo
-13-
+13-print_float - Prints the value of NUM with 2 decimals
