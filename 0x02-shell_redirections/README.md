@@ -21,4 +21,5 @@
 20-hiago - Deletes the letter C in all forms. Ciao! or Iao!
 21-reverse - Reverses input with 'rev' command
 22-users_and_homes - Prints users and their directories in /etc/passwd and sorts by user
-
+100-empty_casks - Finds emptyfiles and directories under the current directory.
+101-
