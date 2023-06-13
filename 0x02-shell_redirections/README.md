@@ -22,4 +22,4 @@
 21-reverse - Reverses input with 'rev' command
 22-users_and_homes - Prints users and their directories in /etc/passwd and sorts by user
 100-empty_casks - Finds emptyfiles and directories under the current directory.
-101-
+101-gifs - Lists files ending with .gif and orders by byte size case insensitive.
