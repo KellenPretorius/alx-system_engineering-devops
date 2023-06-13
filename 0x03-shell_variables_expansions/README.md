@@ -9,4 +9,4 @@
 8-true_knowledge - Adds 128 to the value of the variable TRUEKNOWLEDGE
 9-divide_and_rule - Divides the value of variable POWER with that of DIVIDE.
 10-love_exponent_breath - Displays the result of variable BREATH to the power LOVE
-11-
+11-binary_to_decimal - converts a number from a base 2, stored in variable BINAR, to base 10
