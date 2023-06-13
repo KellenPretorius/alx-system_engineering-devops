@@ -2,4 +2,5 @@
 1-hello_you - Greets the current user.
 2-path - Exports $PATH and amends /action to it.
 3-paths - Counts Directories by seperating then imto lines and then doing a line count.
-4-
+4-global_variables - Prints environment variables
+5-local_variables - Prints the local variables with set.
