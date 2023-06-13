@@ -14,3 +14,5 @@
 13-print_float - Prints the value of NUM with 2 decimals
 100-decimal_to_hexadecimal -onverts a number from base 10, stored in DECIMAL, to base 16
 101-rot13 - Replaces every letter with the letter 13 spaces ahead of it - rot13 encryption
+102-odd - Paste every other line starting with the first
+
