@@ -15,4 +15,4 @@
 100-decimal_to_hexadecimal -onverts a number from base 10, stored in DECIMAL, to base 16
 101-rot13 - Replaces every letter with the letter 13 spaces ahead of it - rot13 encryption
 102-odd - Paste every other line starting with the first
-
+103-water_and_stir - Converts water and stir into their base 5 counterparts, uses algorthmicexpansion to to convert that into it's decimal-10, adds those decimal and converts the result into an octal and then replace each digit with the letters in bestchol. Long $(()) usage = long Readme.
