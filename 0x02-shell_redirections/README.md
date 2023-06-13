@@ -24,3 +24,4 @@
 100-empty_casks - Finds emptyfiles and directories under the current directory.
 101-gifs - Lists files ending with .gif and orders by byte size case insensitive.
 102-acrostic - Decodes an acrostic by the first letter of the line. Like solving the Mysterium Xarxes.
+103-the_biggest_fan - Lists top 11 hosts by request number from Server logs in TSV.
