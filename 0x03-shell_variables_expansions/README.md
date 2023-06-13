@@ -4,3 +4,5 @@
 3-paths - Counts Directories by seperating then imto lines and then doing a line count.
 4-global_variables - Prints environment variables
 5-local_variables - Prints the local variables with set.
+6-create_local_variable - Creates a local variable named BEST valued School
+7-create_global_variable - Same as above but uses export to make it global
