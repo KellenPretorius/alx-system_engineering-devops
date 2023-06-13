@@ -18,4 +18,5 @@
 17-hidethisword - Hides the word bin in passwd file
 18-letteonly - Displays all lines of a file starting with a letter using the [[:alpha:]] parameter and grep.
 19-AZ - Replaces A and c input with Z and e.
-20-
+20-hiago - Deletes the letter C in all forms. Ciao! or Iao!
+21-
